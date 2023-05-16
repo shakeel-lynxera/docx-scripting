@@ -1,0 +1,1812 @@
+{
+    "title": "Letters and Words A to G",
+    "unit": "1",
+    "level": "1",
+    "sco": "110059",
+    "exercises": [
+        {
+            "type": "Welcome",
+            "data": [
+                {
+                    "type": "Images",
+                    "content": " 110059_welcome..png"
+                },
+                {
+                    "type": "Can do statements",
+                    "content": [
+                        "Learners can recognize nouns starting with a to g ",
+                        "Learners can say some nouns starting with a to g"
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110059_stim1Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110059_stim1aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG A, BIG B, BIG C.",
+                            "time": 100
+                        },
+                        {
+                            "text": "Amy, Bob, Cindy,",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG A, BIG B, and BIG C.",
+                            "time": 100
+                        },
+                        {
+                            "text": "Amy, Bob, and Cindy,",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "small a, small b",
+                            "time": 100
+                        },
+                        {
+                            "text": "airplane for small a",
+                            "time": 100
+                        },
+                        {
+                            "text": "bear for small b.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "small a, small c.",
+                            "time": 100
+                        },
+                        {
+                            "text": "ant, for small a",
+                            "time": 100
+                        },
+                        {
+                            "text": "cat for small c.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "small b, and small c.",
+                            "time": 100
+                        },
+                        {
+                            "text": "bat for small b,",
+                            "time": 100
+                        },
+                        {
+                            "text": "cot for small c.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG A, BIG B,",
+                            "time": 100
+                        },
+                        {
+                            "text": "and BIG C.",
+                            "time": 100
+                        },
+                        {
+                            "text": "small a, small b,",
+                            "time": 100
+                        },
+                        {
+                            "text": "and small c.",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img13.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "ant"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set1img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set1img02.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "cat"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set1aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set1aud02",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set1img03.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set1aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set1img05.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set1aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "cot",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "ant",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set1img06.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set1aud06",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set1img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "dog",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "cat",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set1img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "boy_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Audio "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "airplane"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "bear"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "ant"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "cat"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "bat"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "cot"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Amy"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Bob"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Cindy"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set2aud10"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img14.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "airplane"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set3img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set3img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set3img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "cat"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set3img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set3img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set3img06.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "dog",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "frog",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "elf",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim1set 3aud08",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim1set3img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "elf",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "ant",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "bat",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110059_stim2Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110059_stim2aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Hello, BIG D.",
+                            "time": 100
+                        },
+                        {
+                            "text": "Not BIG E! BIG D!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Yes!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Hellooooo, BIG D!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Hello, small d.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Hello, BIG E, F G!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Hello, small e, f, g!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG D for Dan",
+                            "time": 100
+                        },
+                        {
+                            "text": "small d for dog",
+                            "time": 100
+                        },
+                        {
+                            "text": "small e for egg",
+                            "time": 100
+                        },
+                        {
+                            "text": "small f for  frog",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG E for Emma",
+                            "time": 100
+                        },
+                        {
+                            "text": "small e for elf",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG G for Gary",
+                            "time": 100
+                        },
+                        {
+                            "text": "small g for girl",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG D, BIG D",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG E, F, and G!",
+                            "time": 100
+                        },
+                        {
+                            "text": "small d, small d",
+                            "time": 100
+                        },
+                        {
+                            "text": "small e f, and g",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Chant",
+                            "time": 100
+                        },
+                        {
+                            "text": "(the 2nd letter in each line (small letter) is the sound)",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "A, a, ant",
+                            "time": 100
+                        },
+                        {
+                            "text": "A, a, A",
+                            "time": 100
+                        },
+                        {
+                            "text": "B, b, bat",
+                            "time": 100
+                        },
+                        {
+                            "text": "B, b, B",
+                            "time": 100
+                        },
+                        {
+                            "text": "C, c, cat",
+                            "time": 100
+                        },
+                        {
+                            "text": "C, c, C",
+                            "time": 100
+                        },
+                        {
+                            "text": "D, d, dog",
+                            "time": 100
+                        },
+                        {
+                            "text": "D, d, D",
+                            "time": 100
+                        },
+                        {
+                            "text": "E, e, elf",
+                            "time": 100
+                        },
+                        {
+                            "text": "E, e, E",
+                            "time": 100
+                        },
+                        {
+                            "text": "F, f, frog",
+                            "time": 100
+                        },
+                        {
+                            "text": "F, f, F",
+                            "time": 100
+                        },
+                        {
+                            "text": "G, g, girl",
+                            "time": 100
+                        },
+                        {
+                            "text": "G, g, G",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img15.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "text"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "girl",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "egg"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img06.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "cat",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "cot",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "egg",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set1aud08",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "elf",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "bat",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "ant",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set1img09.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "girl_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Dan"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "dog"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "egg"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "frog"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Emma"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "elf"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Gary"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "girl"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set2aud10"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img16.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img06.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "frog",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "elf",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "girl",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_stim2set3aud08",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "ant",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "egg",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "elf",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110059_stim2set3img09.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110059_stim2Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110059_stim2aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Hello, BIG D.",
+                            "time": 100
+                        },
+                        {
+                            "text": "Not BIG E! BIG D!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Yes!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Hellooooo, BIG D!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Hello, small d.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Hello, BIG E, F G!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Hello, small e, f, g!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG D for Dan",
+                            "time": 100
+                        },
+                        {
+                            "text": "small d for dog",
+                            "time": 100
+                        },
+                        {
+                            "text": "small e for egg",
+                            "time": 100
+                        },
+                        {
+                            "text": "small f for  frog",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG E for Emma",
+                            "time": 100
+                        },
+                        {
+                            "text": "small e for elf",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG G for Gary",
+                            "time": 100
+                        },
+                        {
+                            "text": "small g for girl",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG D, BIG D",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG E, F, and G!",
+                            "time": 100
+                        },
+                        {
+                            "text": "small d, small d",
+                            "time": 100
+                        },
+                        {
+                            "text": "small e f, and g",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Chant",
+                            "time": 100
+                        },
+                        {
+                            "text": "(the 2nd letter in each line (small letter) is the sound)",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "A, a, ant",
+                            "time": 100
+                        },
+                        {
+                            "text": "A, a, A",
+                            "time": 100
+                        },
+                        {
+                            "text": "B, b, bat",
+                            "time": 100
+                        },
+                        {
+                            "text": "B, b, B",
+                            "time": 100
+                        },
+                        {
+                            "text": "C, c, cat",
+                            "time": 100
+                        },
+                        {
+                            "text": "C, c, C",
+                            "time": 100
+                        },
+                        {
+                            "text": "D, d, dog",
+                            "time": 100
+                        },
+                        {
+                            "text": "D, d, D",
+                            "time": 100
+                        },
+                        {
+                            "text": "E, e, elf",
+                            "time": 100
+                        },
+                        {
+                            "text": "E, e, E",
+                            "time": 100
+                        },
+                        {
+                            "text": "F, f, frog",
+                            "time": 100
+                        },
+                        {
+                            "text": "F, f, F",
+                            "time": 100
+                        },
+                        {
+                            "text": "G, g, girl",
+                            "time": 100
+                        },
+                        {
+                            "text": "G, g, G",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": ""
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "ant"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_chantaud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "bat"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_chantaud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "cat"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_chantaud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "dog"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_chantaud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "elf"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_chantaud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "frog"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_chantaud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "girl"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110059_chantaud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "text": "airplane",
+            "audio": "110059_vocab_aud01",
+            "image": "110059_vocab_img01.png"
+        },
+        {
+            "text": "bear",
+            "audio": "110059_vocab_aud02",
+            "image": "110059_vocab_img02.png"
+        },
+        {
+            "text": "ant",
+            "audio": "110059_vocab_aud03",
+            "image": "110059_vocab_img03.png"
+        },
+        {
+            "text": "cat",
+            "audio": "110059_vocab_aud04",
+            "image": "110059_vocab_img04.png"
+        },
+        {
+            "text": "bat",
+            "audio": "110059_vocab_aud05",
+            "image": "110059_vocab_img05.png"
+        },
+        {
+            "text": "cot",
+            "audio": "110059_vocab_aud06",
+            "image": "110059_vocab_img06.png"
+        },
+        {
+            "text": "dog",
+            "audio": "110059_vocab_aud07",
+            "image": "110059_vocab_img07.png"
+        },
+        {
+            "text": "egg",
+            "audio": "110059_vocab_aud08",
+            "image": "110059_vocab_img08.png"
+        },
+        {
+            "text": "frog",
+            "audio": "110059_vocab_aud09",
+            "image": "110059_vocab_img09.png"
+        },
+        {
+            "text": "elf",
+            "audio": "110059_vocab_aud10",
+            "image": "110059_vocab_img10.png"
+        },
+        {
+            "text": "girl",
+            "audio": "110059_vocab_aud11",
+            "image": "110059_vocab_img11.png"
+        }
+    ]
+}

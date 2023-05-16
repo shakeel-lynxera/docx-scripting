@@ -1,0 +1,1566 @@
+{
+    "title": "Letters and Words Q to Z",
+    "unit": "1",
+    "level": "1",
+    "sco": "110037",
+    "exercises": [
+        {
+            "type": "Welcome",
+            "data": [
+                {
+                    "type": "Images ",
+                    "content": "110037_welcome..png"
+                },
+                {
+                    "type": "Can do statements",
+                    "content": [
+                        "Learners can recognize letters words starting with Q to Z.",
+                        "Learners can say some words starting with Q to Z."
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110037_stim1Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110037_stim1aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Small letters, small letters,",
+                            "time": 100
+                        },
+                        {
+                            "text": "q, r, s, and t.",
+                            "time": 100
+                        },
+                        {
+                            "text": "q for queen, r for robot,",
+                            "time": 100
+                        },
+                        {
+                            "text": "s for sun, t for tree.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Small letter, small letter",
+                            "time": 100
+                        },
+                        {
+                            "text": "for letter u",
+                            "time": 100
+                        },
+                        {
+                            "text": "u for umbrella",
+                            "time": 100
+                        },
+                        {
+                            "text": "a small letter too.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG letters, BIG letters,",
+                            "time": 100
+                        },
+                        {
+                            "text": "Q, R, S, T, U",
+                            "time": 100
+                        },
+                        {
+                            "text": "small  letters, small letters,",
+                            "time": 100
+                        },
+                        {
+                            "text": "q, r, s, t, u",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img21.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "queen"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set1_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set1_img02.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "robot"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set1_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set1_aud02",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set1_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set1_img03.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set1_img04.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set1_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "robot",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "tree",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set1_img05.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set1_aud05",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set1_aud06",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set1_img06.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "umbrella",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "queen",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set1_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "boy_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "letters"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small letters"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "letters"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big letters"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "umbrella"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "queen"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "robot"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "sun"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "tree"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "DMC\nquestionset_img22.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "queen"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "robot"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img06.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "big",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "small",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "sun",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud08",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "robot",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "queen",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "sun",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim1set3_aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img09.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img10.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim1set3_img11.png",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110037_stim2Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "U1LE6_stim2aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG V, BIG V, BIG W",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG X, and Y and Z",
+                            "time": 100
+                        },
+                        {
+                            "text": "small v, small v, small w",
+                            "time": 100
+                        },
+                        {
+                            "text": "small x and y and z.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "v, small v for van.",
+                            "time": 100
+                        },
+                        {
+                            "text": "w, small w for water",
+                            "time": 100
+                        },
+                        {
+                            "text": "x, small x for fox",
+                            "time": 100
+                        },
+                        {
+                            "text": "y, small y for yellow",
+                            "time": 100
+                        },
+                        {
+                            "text": "z, small z for zebra",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG V, BIG V, BIG W",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG X, and Y and Z",
+                            "time": 100
+                        },
+                        {
+                            "text": "small v, small v, small w",
+                            "time": 100
+                        },
+                        {
+                            "text": "small x and y and z.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG and small",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "V, w, X, y Z.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "A queen, a queen",
+                            "time": 100
+                        },
+                        {
+                            "text": "q-u-e-e-n",
+                            "time": 100
+                        },
+                        {
+                            "text": "A robot, a robot,",
+                            "time": 100
+                        },
+                        {
+                            "text": "r-o-b-o-t",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "A sun, a sun",
+                            "time": 100
+                        },
+                        {
+                            "text": "s-u-n",
+                            "time": 100
+                        },
+                        {
+                            "text": "A tree, a tree,",
+                            "time": 100
+                        },
+                        {
+                            "text": "t-r-e-e",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Again, again,",
+                            "time": 100
+                        },
+                        {
+                            "text": "say and spell!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Say and spell",
+                            "time": 100
+                        },
+                        {
+                            "text": "words with me!",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "MRW\n\nquestionset_img01.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "water"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set1_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "questionset_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set1_img02.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "van"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set1_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set1_aud02",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set1_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set1_img03.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set1_img04.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set1_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "red",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "yellow",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set1_img05.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set1_aud05",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set1_aud06",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set1_img06.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "tall",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "short",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set1_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "girl_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "van"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "fox"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "water"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "yellow"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "zebra"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big and small"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "tall and short"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "a small fox"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "a big van"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set2_aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "DMC\n\nquestionset_img02.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "water"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "questionset_img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "fox"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img06.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "small",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "short",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "zebra",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud08",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img08.png"
+                        },
+                        {
+                            "type": "image",
+                            "content": "110037_stim2set3_img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "small",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "short",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "tall",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110037_stim2set3_aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "short",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "small",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "zebra",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110037_stim2Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "U1LE6_stim2aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG V, BIG V, BIG W",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG X, and Y and Z",
+                            "time": 100
+                        },
+                        {
+                            "text": "small v, small v, small w",
+                            "time": 100
+                        },
+                        {
+                            "text": "small x and y and z.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "v, small v for van.",
+                            "time": 100
+                        },
+                        {
+                            "text": "w, small w for water",
+                            "time": 100
+                        },
+                        {
+                            "text": "x, small x for fox",
+                            "time": 100
+                        },
+                        {
+                            "text": "y, small y for yellow",
+                            "time": 100
+                        },
+                        {
+                            "text": "z, small z for zebra",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG V, BIG V, BIG W",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG X, and Y and Z",
+                            "time": 100
+                        },
+                        {
+                            "text": "small v, small v, small w",
+                            "time": 100
+                        },
+                        {
+                            "text": "small x and y and z.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG and small",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "V, w, X, y Z.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "A queen, a queen",
+                            "time": 100
+                        },
+                        {
+                            "text": "q-u-e-e-n",
+                            "time": 100
+                        },
+                        {
+                            "text": "A robot, a robot,",
+                            "time": 100
+                        },
+                        {
+                            "text": "r-o-b-o-t",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "A sun, a sun",
+                            "time": 100
+                        },
+                        {
+                            "text": "s-u-n",
+                            "time": 100
+                        },
+                        {
+                            "text": "A tree, a tree,",
+                            "time": 100
+                        },
+                        {
+                            "text": "t-r-e-e",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Again, again,",
+                            "time": 100
+                        },
+                        {
+                            "text": "say and spell!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Say and spell",
+                            "time": 100
+                        },
+                        {
+                            "text": "words with me!",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        }
+    ],
+    "vocabulary": [
+        {
+            "text": "queen",
+            "audio": "110037_vocab_aud01",
+            "image": "110037_vocab_img01.png"
+        },
+        {
+            "text": "robot",
+            "audio": "110037_vocab_aud02",
+            "image": "110037_vocab_img02.png"
+        },
+        {
+            "text": "sun",
+            "audio": "110037_vocab_aud03",
+            "image": "110037_vocab_img03.png"
+        },
+        {
+            "text": "tree",
+            "audio": "110037_vocab_aud04",
+            "image": "110037_vocab_img04.png"
+        },
+        {
+            "text": "umbrella",
+            "audio": "110037_vocab_aud04",
+            "image": "110037_vocab_img05.png"
+        },
+        {
+            "text": "van",
+            "audio": "110037_vocab_aud05",
+            "image": "110037_vocab_img06.png"
+        },
+        {
+            "text": "water",
+            "audio": "110037_vocab_aud06",
+            "image": "110037_vocab_img07.png"
+        },
+        {
+            "text": "fox",
+            "audio": "110037_vocab_aud07",
+            "image": "110037_vocab_img08.png"
+        },
+        {
+            "text": "yellow",
+            "audio": "110037_vocab_aud08",
+            "image": "110037_vocab_img09.png"
+        },
+        {
+            "text": "zebra",
+            "audio": "110037_vocab_aud09",
+            "image": "110037_vocab_img010.png"
+        }
+    ]
+}

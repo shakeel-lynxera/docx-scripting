@@ -1,0 +1,1730 @@
+{
+    "title": "Letters Q to Z",
+    "unit": "1",
+    "level": "1",
+    "sco": "110020",
+    "exercises": [
+        {
+            "type": "Welcome",
+            "data": [
+                {
+                    "type": "Image",
+                    "content": "110020_welcome.png"
+                },
+                {
+                    "type": "Can do statements",
+                    "content": [
+                        "Learners can recognize letters Q to Z",
+                        "Learners can say letters Q to Z",
+                        "Learners can make the letter sounds Q to Z"
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110020_stim1Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110020_stim1aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Can you see",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG Q, and R?",
+                            "time": 100
+                        },
+                        {
+                            "text": "Can you see",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG S, and T?",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Yes, I see",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG Q, and R!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Yes, I see",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG S, and T!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "I am BIG Q!",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am BIG R!",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am BIG S!",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am T, BIG T!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Can you see",
+                            "time": 100
+                        },
+                        {
+                            "text": "small q, and r?",
+                            "time": 100
+                        },
+                        {
+                            "text": "Can you see",
+                            "time": 100
+                        },
+                        {
+                            "text": "small s and t?",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Yes, I see",
+                            "time": 100
+                        },
+                        {
+                            "text": "small q, and r!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Yes, I see",
+                            "time": 100
+                        },
+                        {
+                            "text": "small s and t!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "I am small q.",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am small r.",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am small s",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am t, small t!",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img09.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img02.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img03.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img04.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud04",
+                            "correct": true
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud05",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img05.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img06.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img07.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img08.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img09.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "questionset_img09.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img10.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud08",
+                            "correct": true
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud09",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set1_aud10"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img11.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img12.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set1_img13.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "boy_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "see"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Can you see? "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Big Q, R, S "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Big T, U, V"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I see"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small, w, x, y"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small z"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I can see!"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set2_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img10.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img04.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud03",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud04",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img05.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud05",
+                            "correct": true
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud07",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img06.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img08.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img09.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img10.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "questionset_img10.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img11.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img12.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img13.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim1set3_img14.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud10",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud11",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim1set3_aud12",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "U1LE1_stim2Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110020_stim2aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Look! It’s BIG U!",
+                            "time": 100
+                        },
+                        {
+                            "text": "Look It’s BIG V!",
+                            "time": 100
+                        },
+                        {
+                            "text": "And I see small u, too,",
+                            "time": 100
+                        },
+                        {
+                            "text": "And I small v, too!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG, BIG U",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG, BIG V",
+                            "time": 100
+                        },
+                        {
+                            "text": "small, small u",
+                            "time": 100
+                        },
+                        {
+                            "text": "small, small v.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Hey! It’s BIG W!",
+                            "time": 100
+                        },
+                        {
+                            "text": "It’s BIG X, Y and Z! (zee)",
+                            "time": 100
+                        },
+                        {
+                            "text": "And I see small w",
+                            "time": 100
+                        },
+                        {
+                            "text": "And small x, y,  z too! (zee)",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG, BIG W",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG, X, Y and Z (zee)",
+                            "time": 100
+                        },
+                        {
+                            "text": "small, small w",
+                            "time": 100
+                        },
+                        {
+                            "text": "small, x, y and z. (zee)",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img11.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img02.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img03.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img04.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud04",
+                            "correct": true
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud05",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img05.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img06.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img07.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img08.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img09.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img10.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud08",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set1_aud09",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set1_img11.png"
+                        },
+                        {
+                            "type": "image",
+                            "content": "questionset_img11.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "r",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "s",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "girl_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Look!"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Big U"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Big V"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small u"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small v"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I see small w."
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I see small w and x."
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I see small y and  z."
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set2_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img12.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img04.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud03",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud04",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img06.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img07.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img08.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img09.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img10.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img11.png"
+                        },
+                        {
+                            "type": "image",
+                            "content": "110020_stim2set3_img11.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud08",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud09",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "questionset_img12.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud10",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud11",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_stim2set3_aud12",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Images",
+                    "content": "chant_img03.png"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110020_chant1aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Can you see",
+                            "time": 100
+                        },
+                        {
+                            "text": "Q, R, S, T?",
+                            "time": 100
+                        },
+                        {
+                            "text": "Yes, I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "Q, R, S, T.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Can you see",
+                            "time": 100
+                        },
+                        {
+                            "text": "U and V?",
+                            "time": 100
+                        },
+                        {
+                            "text": "Yes, I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "U and V.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "Can you see",
+                            "time": 100
+                        },
+                        {
+                            "text": "W, X, Y, Z?",
+                            "time": 100
+                        },
+                        {
+                            "text": "Yes, I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "W, X, Y, Z.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "You can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "Q, R, S, T",
+                            "time": 100
+                        },
+                        {
+                            "text": "You can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "U and V!",
+                            "time": 100
+                        },
+                        {
+                            "text": "You can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "W, X, Y, Z!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "We can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "Q, R, S, T.",
+                            "time": 100
+                        },
+                        {
+                            "text": "We can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "U and V!",
+                            "time": 100
+                        },
+                        {
+                            "text": "I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "W, X, Y, Z!",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": ""
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "see "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I can see. "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "you "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "You can see. "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "We "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantet3_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "We can see. "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020chantset3_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Can "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Can you see? "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Yes"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Yes, I can see. "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110020_chantset3_aud10"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "text": "BIG Q, small q",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img01.png"
+        },
+        {
+            "text": "BIG R, small r",
+            "audio": "110020_vocBab_aud01",
+            "image": "110020_vocab_img02.png"
+        },
+        {
+            "text": "BIG S, small s",
+            "audio": "1LE3_vocab_aud01",
+            "image": "110020_vocab_img03.png"
+        },
+        {
+            "text": "BIG T, small t",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img04.png"
+        },
+        {
+            "text": "BIG U, small u",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img05.png"
+        },
+        {
+            "text": "BIG V, small v",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img06.png"
+        },
+        {
+            "text": "BIG W, small w",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img07.png"
+        },
+        {
+            "text": "BIG X, small x",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img07.png"
+        },
+        {
+            "text": "BIG Y, small y",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img09.png"
+        },
+        {
+            "text": "BIG Z, small z       (zee)",
+            "audio": "110020_vocab_aud01",
+            "image": "110020_vocab_img10.png"
+        }
+    ]
+}

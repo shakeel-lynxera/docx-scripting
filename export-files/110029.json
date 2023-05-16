@@ -1,0 +1,1849 @@
+{
+    "title": "Letters and Words H to P",
+    "unit": "1",
+    "level": "1",
+    "sco": "110029",
+    "exercises": [
+        {
+            "type": "Welcome",
+            "data": [
+                {
+                    "type": "Images",
+                    "content": "110029_welcome..png"
+                },
+                {
+                    "type": "Can do statements",
+                    "content": [
+                        "Learners can recognize letters words starting with H to P",
+                        "Learners can say some words starting with H to P"
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110029_stim1Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110029_stim1aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "It’s H and I today!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "It’s J and K today!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "It’s a BIG H for Harry",
+                            "time": 100
+                        },
+                        {
+                            "text": "and a small h for hat,",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "It’s a small i for ice cream",
+                            "time": 100
+                        },
+                        {
+                            "text": "and a small j for jet",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "It’s a BIG K for Ken",
+                            "time": 100
+                        },
+                        {
+                            "text": "and a small k for key",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "Say H and I today!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "Say J and K today!",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img17.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "hat"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img02.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "jet"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set1_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set1_aud02",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img03.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set1_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img05.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set1_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "jet",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "hat",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img06.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set1_aud05",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set1_aud06",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "pig",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "key",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set1_img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "boy_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big and small"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "J and K"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "It’s J and K! "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "say"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "Say H and I"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "today"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set2_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img18.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "hat"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "ice-cream"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img06.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "jet",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "key",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "hat",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim1set3_aud08",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim1set3_img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "jet",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "key",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "hat",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110029_stim2Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110029_stim2aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG L, BIG M",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG  N, O, and P",
+                            "time": 100
+                        },
+                        {
+                            "text": "I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG L, BIG M",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG  N, O, and P",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "small l, small m",
+                            "time": 100
+                        },
+                        {
+                            "text": "small  n, o, p",
+                            "time": 100
+                        },
+                        {
+                            "text": "I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "small l, small m",
+                            "time": 100
+                        },
+                        {
+                            "text": "small  n, o, p",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "orange for o",
+                            "time": 100
+                        },
+                        {
+                            "text": "monkey for m",
+                            "time": 100
+                        },
+                        {
+                            "text": "pig for p",
+                            "time": 100
+                        },
+                        {
+                            "text": "and nose for n",
+                            "time": 100
+                        },
+                        {
+                            "text": "lion for l",
+                            "time": 100
+                        },
+                        {
+                            "text": "Again! Again!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "H, and I, h, and i",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am H, I am I all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am h, I am I all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "J, and K, j, and k",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am J, I am K all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am j, I am k all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "L, and M, l, and m",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am L, I am M all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am l, I am m all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "N, and O, n, and o",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am N, I am O all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am n, I am O all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "P, and, p. P, and p",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am P, I am p all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am p, I am p all day",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "MRW",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img19.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "monkey"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img02.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "nose"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set1_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set1_aud02",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img03.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set1_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img05.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set1_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "lion",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "orange",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img06.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set1_aud05",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set1_aud06",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "nose",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "eyes",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set1_img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "pig",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "yes",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "no",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "girl_speaking.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "orange"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "monkey"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "pig"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "nose"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "see "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I can see. "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "again"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set2_aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DMC",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "questionset_img20.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "text"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "orange",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img01.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img02.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img03.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "monkey"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud01",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud02",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud03",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img04.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img05.png",
+                            "correct": false
+                        },
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img06.png",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "monkey",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "pig",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "lion",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img07.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud06",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud07",
+                            "correct": false
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_stim2set3_aud08",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "image",
+                            "content": "110029_stim2set3_img08.png"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "text",
+                            "content": "pig",
+                            "correct": true
+                        },
+                        {
+                            "type": "text",
+                            "content": "nose",
+                            "correct": false
+                        },
+                        {
+                            "type": "text",
+                            "content": "lion",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Stim_1",
+            "data": [
+                {
+                    "type": "Video",
+                    "content": "110029_stim2Anim01"
+                },
+                {
+                    "type": "Audio",
+                    "content": "110029_stim2aud01"
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "BIG L, BIG M",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG  N, O, and P",
+                            "time": 100
+                        },
+                        {
+                            "text": "I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG L, BIG M",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG  N, O, and P",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "small l, small m",
+                            "time": 100
+                        },
+                        {
+                            "text": "small  n, o, p",
+                            "time": 100
+                        },
+                        {
+                            "text": "I can see",
+                            "time": 100
+                        },
+                        {
+                            "text": "small l, small m",
+                            "time": 100
+                        },
+                        {
+                            "text": "small  n, o, p",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "orange for o",
+                            "time": 100
+                        },
+                        {
+                            "text": "monkey for m",
+                            "time": 100
+                        },
+                        {
+                            "text": "pig for p",
+                            "time": 100
+                        },
+                        {
+                            "text": "and nose for n",
+                            "time": 100
+                        },
+                        {
+                            "text": "lion for l",
+                            "time": 100
+                        },
+                        {
+                            "text": "Again! Again!",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "H, and I, h, and i",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am H, I am I all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am h, I am I all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "J, and K, j, and k",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am J, I am K all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am j, I am k all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "L, and M, l, and m",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am L, I am M all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am l, I am m all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "N, and O, n, and o",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am N, I am O all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am n, I am O all day.",
+                            "time": 100
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "text": "P, and, p. P, and p",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am P, I am p all day",
+                            "time": 100
+                        },
+                        {
+                            "text": "BIG and small,",
+                            "time": 100
+                        },
+                        {
+                            "text": "short and TALL",
+                            "time": 100
+                        },
+                        {
+                            "text": "I am p, I am p all day",
+                            "time": 100
+                        }
+                    ]
+                }
+            ],
+            "questions": []
+        },
+        {
+            "type": "SR1",
+            "data": [
+                {
+                    "type": "image",
+                    "content": "110029_chant1set1_img01.png"
+                }
+            ],
+            "questions": [
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud01"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "small"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud02"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "big and small"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud03"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "short"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud04"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "tall"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud05"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "short and tall"
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud06"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I am big."
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud07"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I am small."
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud08"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I am short.  "
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud09"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "data": [
+                        {
+                            "type": "text",
+                            "content": "I am tall."
+                        },
+                        {
+                            "type": "audio",
+                            "content": "110029_chant1set1_aud10"
+                        }
+                    ],
+                    "responses": [
+                        {
+                            "type": "rec",
+                            "content": "",
+                            "correct": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "text": "hat",
+            "audio": "110029_vocab_aud01",
+            "image": "110029_vocab_img01.png"
+        },
+        {
+            "text": "jet",
+            "audio": "110029_vocab_aud02",
+            "image": "110029_vocab_img02.png"
+        },
+        {
+            "text": "lion",
+            "audio": "110029_vocab_aud03",
+            "image": "110029_vocab_img03.png"
+        },
+        {
+            "text": "nose",
+            "audio": "110029_vocab_aud04",
+            "image": "110029_vocab_img04.png"
+        },
+        {
+            "text": "pig",
+            "audio": "110029_vocab_aud05",
+            "image": "110029_vocab_img05.png"
+        },
+        {
+            "text": "ice cream",
+            "audio": "110029_vocab_aud06",
+            "image": "110029_vocab_img06.png"
+        },
+        {
+            "text": "key",
+            "audio": "110029_vocab_aud07",
+            "image": "110029_vocab_img07.png"
+        },
+        {
+            "text": "monkey",
+            "audio": "110029_vocab_aud08",
+            "image": "110029_vocab_img08.png"
+        },
+        {
+            "text": "orange",
+            "audio": "110029_vocab_aud09",
+            "image": "110029_vocab_img09.png"
+        }
+    ]
+}
